@@ -8,7 +8,6 @@ import java.util.Locale;
 public class ChetiriChertenka {
 
     static BufferedReader buffer = new BufferedReader(new InputStreamReader(System.in));
-    //static StreamTokenizer input = new StreamTokenizer ( buffer );
     static PrintWriter out = new PrintWriter(System.out);
 
     public static void main(String str[]) throws IOException {

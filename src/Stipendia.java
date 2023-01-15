@@ -35,5 +35,4 @@ public class Stipendia {
 
         System.out.println(result);
     }
-
 }
